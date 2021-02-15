@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.square-color {
+  padding: .5rem 1.2rem;  
+  margin-right: .5rem;
+  cursor: pointer;
+}
+
+.square-active {
+  border: 5px solid rgb(172, 99, 99);
+}
